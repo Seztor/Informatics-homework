@@ -70,6 +70,7 @@ Distinct, but distant — clear, but oh, how cold!
 ```
 moscow - +7(963)999-15-43
 moscow - +7(900)123-45-67
+...
 ```
 
 *Подсказка, используйте grep для фильтрации :)*
