@@ -73,3 +73,4 @@ Distinct, but distant — clear, but oh, how cold!
 2. Хорошая ĸнига по Shell/bash в Linux - "Learn Linux Shell Scripting – Fundamentals of Bash 4.4" Sebastiaan
 Tammer
 3. google.com
+4. selectel.ru/blog/tutorials/grep-command-in-linux/
