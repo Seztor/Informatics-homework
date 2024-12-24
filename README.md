@@ -47,7 +47,7 @@ Distinct, but distant — clear, but oh, how cold!
 Перед тем как выполнять задания, проделайте следующие действия:
  - В той же директории, где будет находится скрипт создайте папку `DataPhoneNumbers`
  - В ней создайте несколько файлов с названиями формата *cityname.txt*
- - Заполните их номерами телефонов в формате `+7(xxx)xxx-xx-xx` (добавьте также в каждый файл номера, не подходящие под формат)<br>
+ - Заполните несколько номеров телефонов в каждой строке в определенном формате `+7(xxx)xxx-xx-xx` (добавьте также в каждый файл номера, не подходящие под формат)<br>
  
 Теперь напишите скрипт следующий скрипт:
 - Получает на вход названия городов через пробел
@@ -69,16 +69,7 @@ Distinct, but distant — clear, but oh, how cold!
 
 ## Дополнительные источники
 
-1. [Присваивание значений переменным.](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#VARASSIGNMENT)
-2. [Подстановка переменных.](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#VARSUBN)
-3. [Арифметические операции.](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#ARITHEXP)
-4. [Проверка условий.](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#TESTS)
-5. stackoverflow.com
-6. Хорошая ĸнига по Shell/bash в Linux - "Learn Linux Shell Scripting – Fundamentals of Bash 4.4" Sebastiaan
+1. stackoverflow.com
+2. Хорошая ĸнига по Shell/bash в Linux - "Learn Linux Shell Scripting – Fundamentals of Bash 4.4" Sebastiaan
 Tammer
-7. [Функции.](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#FUNCTIONS)
-8. [Функции и рекурсивные функции.](https://habr.com/ru/company/ruvds/blog/327248/)
-9. [Циклы.](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#LOOPS)
-10. [Массивы](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#ARRAYS)
-11. [Про двоичную систему и IP-адрес](https://zametkinapolyah.ru/kompyuternye-seti/4-4-dvoichnye-chisla-i-dvoichnaya-sistema-schisleniya-perevod-chisla-v-dvoichnuyu-sistemu-schisleniya-iz-desyatichnoj.html)
-12.  В. Олифер, Н. Олифер "Компьютерные сети. Принципы, технологии, протоколы. Учебник" (2016)
+3. google.com
