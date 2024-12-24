@@ -32,8 +32,8 @@ for city in "$@"; do
 
 done
 ```
-5. Запускаем наш скрипт<br>
+4. Запускаем наш скрипт<br>
 ![image](https://github.com/user-attachments/assets/97acc015-c66d-40b4-82c3-90d586b484dd)
-6. Видим результат в файле *valid_numbers.txt*<br>
+5. Видим результат в файле *valid_numbers.txt*<br>
 ![image](https://github.com/user-attachments/assets/c34623f6-0f45-442c-b8d9-5691e6a6e23c)
 
