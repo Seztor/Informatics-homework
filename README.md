@@ -68,6 +68,7 @@ Distinct, but distant — clear, but oh, how cold!
 
 Для представленного выше файла "moscow.txt" ответ должен представлять собой:
 ```
+...
 moscow - +7(963)999-15-43
 moscow - +7(900)123-45-67
 ...
